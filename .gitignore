@@ -1,0 +1,17 @@
+# secrets
+.env
+service_account.json
+*credentials*.json
+# personal data
+bot.log
+*.log
+prompts/goals.md
+*.xlsx
+*.csv
+# local environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+state.json
